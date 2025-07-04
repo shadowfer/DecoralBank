@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'DecoralBanck',
-  description: 'Created with Fernely, Juan, Ian y Esteban',
+  description: 'Created By Fernely, Juan, Ian y Esteban',
   generator: 'CORE',
 }
 
